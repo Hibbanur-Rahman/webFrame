@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/webFrame/static/css/main.738293b6.css",
+    "main.js": "/webFrame/static/js/main.a588f53e.js",
+    "static/media/top-article-profile.jpg": "/webFrame/static/media/top-article-profile.3bac45f65b36108b3b7c.jpg",
+    "static/media/top-article-11.jpg": "/webFrame/static/media/top-article-11.5c3e296eafb41b6748ab.jpg",
+    "static/media/image1.jpg": "/webFrame/static/media/image1.3a3dbfde18108f83ae46.jpg",
+    "index.html": "/webFrame/index.html",
+    "main.738293b6.css.map": "/webFrame/static/css/main.738293b6.css.map",
+    "main.a588f53e.js.map": "/webFrame/static/js/main.a588f53e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.738293b6.css",
+    "static/js/main.a588f53e.js"
+  ]
+}
